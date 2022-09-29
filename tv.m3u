@@ -1,3 +1,8 @@
+#EXTM3U
+
+EXTINF:0 tvg-id=»ButacaTV» tvg-logo=»http://imgfz.com/i/WsFZcKn.png» group-title=»Cine»,ButacaTV
+https://veranda-butacatv-1-es.samsung.wurl.tv/2000.m3u8
+
 OTROS PAISES
 #EXTINF:-1 tvg-id="DreamforceBtl.us" tvg-logo="https://dreamforcebtl.online/wp-content/uploads/2021/07/dreamforce-radio-logo-final-e1625783518759-332x191.png" group-title="General",Dreamforce Btl
 https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
