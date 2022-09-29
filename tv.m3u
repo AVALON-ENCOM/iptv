@@ -1,19 +1,20 @@
 #EXTM3U
 
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1007774495.m3u8
+#EXTINF:-1 tvg-id="Canal Capital" tvg-logo="https://dreamforcebtl.online/wp-content/uploads/2021/07/dreamforce-radio-logo-final-e1625783518759-332x191.png" group-title="General",Dreamforce Btl
+https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:capital.smil/chunklist_b2250000_sles.m3u8
 
-#OTROS PAISES
+#EXTINF:-1 tvg-id="Canal RCN" tvg-logo="https://dreamforcebtl.online/wp-content/uploads/2021/07/dreamforce-radio-logo-final-e1625783518759-332x191.png" group-title="General",Dreamforce Btl
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nLFUser5zno9QnF9q0mCflzqMq9Sgqiwtl6cinZkC54b4SvEqY-rgR7RzI14-yJrCQ&dmTs=167515&dmV1st=067B6A87F875443C4F9CF03C47EE884C
+
 #EXTINF:-1 tvg-id="DreamforceBtl.us" tvg-logo="https://dreamforcebtl.online/wp-content/uploads/2021/07/dreamforce-radio-logo-final-e1625783518759-332x191.png" group-title="General",Dreamforce Btl
 https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
 
-#ARGENTINA
 #EXTINF:-1 tvg-id="AmericaSports.ar" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Sports",América Sports (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#COLOMBIA
 #EXTINF:-1 tvg-id="HuilaTV.co" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO-300x161.png" group-title="Music",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
@@ -117,7 +118,7 @@ https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MundoMas.co" tvg-logo="https://i.imgur.com/CREs19T.png" group-title="Undefined",Mundo +
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+http://vcp1.myplaytv.com:1936/mundomas/mundomas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/iBrl0b8.png" group-title="News",Noticiero 90 Minutos (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
@@ -246,5 +247,3 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,FOX
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
