@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,8 MAR DEL PLATA
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
-#EXTINF:-1,pelicula A REALLY HAUNTED LOUD HOUSE
-http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
 #EXTINF:-1,A&E
 http://170.82.37.21:8000/play/a01l/index.m3u8
 #EXTINF:-1,A&E
@@ -893,10 +891,6 @@ http://vod.tuxchannel.mx/peliculas/720/migration%202023.mkv
 http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
 #EXTINF:-1,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1,pelicula 12 HORAS PARA EL FIN DEL MUNDO
-https://www.polimorhdd.online/stuff/mira.mp4
-#EXTINF:-1,pelicula CHICKEN RUN: EL AMANECER DE LOS NUGGETS
-http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv
 #EXTINF:-1,PlayBoy
 http://170.82.37.21:8000/play/a004/index.m3u8
 #EXTINF:-1,Plim Plim TV
@@ -941,8 +935,6 @@ http://38.41.8.1:8000/play/a06j
 https://www.polimorhdd.online/stuff/red.mp4
 #EXTINF:-1,RENFIELD: ASISTENTE DE VAMPIRO
 http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv
-#EXTINF:-1,RESIDENT EVIL: DEATH ISLAND
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Resident%20Evil-%20Death%20Island%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1,Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Rhema TV
@@ -1113,10 +1105,6 @@ http://181.78.105.146:2000/play/a08g/index.m3u8
 http://170.82.37.21:8000/play/a00j/index.m3u8
 #EXTINF:-1,TNT
 http://170.82.37.21:8000/play/a03a/index.m3u8
-#EXTINF:-1,TNT HD
-http://190.61.43.117:45000/play/a050
-#EXTINF:-1,TNT HD
-http://201.222.44.220:4227/play/a00s/index.m3u8
 #EXTINF:-1,TNT NOVELAS
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/39
 #EXTINF:-1,TNT Novelas HD
@@ -1131,6 +1119,10 @@ http://191.97.49.194:8000/play/a03z/index.m3u8
 http://190.61.43.117:45000/play/a01j
 #EXTINF:-1,TNT SERIES OP2
 http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1,TNT-HD
+http://190.61.43.117:45000/play/a050
+#EXTINF:-1,TNT-HD
+http://201.222.44.220:4227/play/a00s/index.m3u8
 #EXTINF:-1,Todo Noticias | Argentina
 http://170.82.37.21:8000/play/a044/index.m3u8
 #EXTINF:-1,Tooncast
@@ -1261,3 +1253,11 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Ver%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1,ZooMoo
 http://170.82.37.21:8000/play/a00o/index.m3u8
+#EXTINF:-1,z-pelicula 12 HORAS PARA EL FIN DEL MUNDO
+https://www.polimorhdd.online/stuff/mira.mp4
+#EXTINF:-1,z-pelicula A REALLY HAUNTED LOUD HOUSE
+http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
+#EXTINF:-1,z-pelicula CHICKEN RUN: EL AMANECER DE LOS NUGGETS
+http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv
+#EXTINF:-1,z-pelicula-RESIDENT EVIL: DEATH ISLAND
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Resident%20Evil-%20Death%20Island%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
