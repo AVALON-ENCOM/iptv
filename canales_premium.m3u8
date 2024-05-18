@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,12 HORAS PARA EL FIN DEL MUNDO
-https://www.polimorhdd.online/stuff/mira.mp4
 #EXTINF:-1,8 MAR DEL PLATA
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
-#EXTINF:-1,A REALLY HAUNTED LOUD HOUSE
+#EXTINF:-1,pelicula A REALLY HAUNTED LOUD HOUSE
 http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
 #EXTINF:-1,A&E
 http://170.82.37.21:8000/play/a01l/index.m3u8
@@ -11,8 +9,6 @@ http://170.82.37.21:8000/play/a01l/index.m3u8
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1,A&E Latam
 http://138.186.20.13:23200/play/a04k
-#EXTINF:-1,Atres Series
-http://170.82.37.21:8000/play/a01k/index.m3u8
 #EXTINF:-1,Acs Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w101871666.m3u8
 #EXTINF:-1,AE Mundo
@@ -55,6 +51,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,ATRAPADOS EN LO PROFUNDO
 https://www.polimorhdd.online/stuff/profundo.mp4
+#EXTINF:-1,Atres Series
+http://170.82.37.21:8000/play/a01k/index.m3u8
 #EXTINF:-1,Atreseries
 http://38.41.8.1:8000/play/a00x
 #EXTINF:-1,AXN
@@ -149,16 +147,8 @@ http://45.166.92.22:58001/play/a02u/index.m3u8
 http://208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv
 #EXTINF:-1,CASSANDRO
 http://208.88.245.81/nuevo/casandro.2023dual.mkv
-#EXTINF:-1,CGTN
-https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
-#EXTINF:-1,CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1,Challenge UK
-https://dpjhjf99gqyr4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvzenqyvh6pyy/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1,CHICKEN RUN: EL AMANECER DE LOS NUGGETS
-http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv
 #EXTINF:-1,Chilevision
 http://177.222.108.82:2500/play/a0ht/index.m3u8
 #EXTINF:-1,CHV HD
@@ -903,6 +893,10 @@ http://vod.tuxchannel.mx/peliculas/720/migration%202023.mkv
 http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
 #EXTINF:-1,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,pelicula 12 HORAS PARA EL FIN DEL MUNDO
+https://www.polimorhdd.online/stuff/mira.mp4
+#EXTINF:-1,pelicula CHICKEN RUN: EL AMANECER DE LOS NUGGETS
+http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv
 #EXTINF:-1,PlayBoy
 http://170.82.37.21:8000/play/a004/index.m3u8
 #EXTINF:-1,Plim Plim TV
@@ -1259,14 +1253,6 @@ http://190.61.43.117:45000/play/a067
 http://190.61.43.117:45000/play/a024
 #EXTINF:-1,WISH: EL PODER DE LOS DESEOS
 https://www.polimorhdd.online/stuff/wish.mp4
-#EXTINF:-1,YTV
-http://pvisio-ott.cc/play/xWszk_ob4AEJzTqWsKpQBgwWIATUR96RhqQAtm_NtU4B47oJca5fSu1slEK5y-vJLfXfJRw9huJarpFV4i_9DEBpbp0DD2s2tX1TPuUiOb8
-#EXTINF:-1,ZOEY 102
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20Zoey%20102%202023%201080p%20Latino%20mkv.mp4
-#EXTINF:-1,ZOM 100:COSAS QUE QUIERO HACER ANTES DE COMVERTIRME EN ZOMBIE
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Ver%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,ZooMoo
-http://170.82.37.21:8000/play/a00o/index.m3u8
 #EXTINF:-1,YTV
 http://pvisio-ott.cc/play/xWszk_ob4AEJzTqWsKpQBgwWIATUR96RhqQAtm_NtU4B47oJca5fSu1slEK5y-vJLfXfJRw9huJarpFV4i_9DEBpbp0DD2s2tX1TPuUiOb8
 #EXTINF:-1,ZOEY 102
