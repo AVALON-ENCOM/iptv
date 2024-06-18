@@ -819,7 +819,7 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 http://170.82.37.21:8000/play/a036/index.m3u8
 #EXTINF:-1,SyFy
 http://170.82.37.21:8000/play/a035/index.m3u8
-#EXTINF:-1,TAYLOR SWIFT THE ERAS TOUR
+#EXTINF:-1,z-TAYLOR SWIFT THE ERAS TOUR
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20TAYLOR%20SWIFT%20-%20THE%20ERAS%20TOUR%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1,TBN Enlace
 http://170.82.37.21:8000/play/a01s/index.m3u8
@@ -1005,8 +1005,6 @@ http://170.82.37.21:8000/play/a02x/index.m3u8
 http://181.78.105.146:8800/play/a05d
 #EXTINF:-1,UNIVISION TLNOVELAS
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
-#EXTINF:-1,Venus
-http://170.82.37.21:8000/play/a002/index.m3u8
 #EXTINF:-1,VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1,Video Tour Channel
